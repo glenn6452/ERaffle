@@ -1,0 +1,5 @@
+,accountId,client_name,date_applied,orderNo,billAmount,ticket_type,pos_name,pos_code,ticket_code
+0,1325808,Mark Ranier Bernabe Agunoy ,2019-05-28,B190528124241746,3000.0,B2S,Robinsons Department Store - Lipa,RDS00002,B190528124241746-1
+2,1340221,Shiela Marie Catapat Banaag,2019-05-29,B190529124245075,2500.0,B2S,Robinsons Department Store - Lipa,RDS00002,B190529124245075-1
+8,188745,Anna Marie Faller Pinlac,2019-05-29,B190529124247400,11000.0,B2S,Robinsons Department Store - Cloverleaf,RDS00011,B190529124247400-2
+10,188745,Anna Marie Faller Pinlac,2019-05-29,B190529124247400,11000.0,B2S,Robinsons Department Store - Cloverleaf,RDS00011,B190529124247400-3

@@ -1,0 +1,14 @@
+accountId,client_name,date_applied,orderNo,billAmount,ticket_type,pos_name,pos_code,ticket_code
+1325808,"Mark Ranier Bernabe Agunoy ",2019-05-28,B190528124241746,3000.00,B2S,"Robinsons Department Store - Lipa",RDS00002,B190528124241746-1
+281212,"donnabel poliquit lumagod",2019-05-28,B190528124242104,10000.00,B2S,"Robinsons Department Store - Galleria",RDS00004,B190528124242104-1
+1340221,"Shiela Marie Catapat Banaag",2019-05-29,B190529124245075,2500.00,B2S,"Robinsons Department Store - Lipa",RDS00002,B190529124245075-1
+188745,"Anna Marie Faller Pinlac",2019-05-29,B190529124247400,11000.00,B2S,"Robinsons Department Store - Cloverleaf",RDS00011,B190529124247400-1
+307961,"divina grace calivo meneses",2019-05-30,B190530124250811,4900.00,B2S,"Robinsons Department Store - Pioneer",RDS00008,B190530124250811-1
+307650,"jaenalyn gebilaguin mosote",2019-05-30,B190530124250860,4900.00,B2S,"Robinsons Department Store - Pioneer",RDS00008,B190530124250860-1
+1345799,"reny napaton desaca",2019-05-30,B190530124252109,2995.00,B2S,"Robinsons Department Store - Galleria",RDS00004,B190530124252109-1
+281212,"donnabel poliquit lumagod",2019-05-28,B190528124242104,10000.00,B2S,"Robinsons Department Store - Galleria",RDS00004,B190528124242104-2
+188745,"Anna Marie Faller Pinlac",2019-05-29,B190529124247400,11000.00,B2S,"Robinsons Department Store - Cloverleaf",RDS00011,B190529124247400-2
+281212,"donnabel poliquit lumagod",2019-05-28,B190528124242104,10000.00,B2S,"Robinsons Department Store - Galleria",RDS00004,B190528124242104-3
+188745,"Anna Marie Faller Pinlac",2019-05-29,B190529124247400,11000.00,B2S,"Robinsons Department Store - Cloverleaf",RDS00011,B190529124247400-3
+281212,"donnabel poliquit lumagod",2019-05-28,B190528124242104,10000.00,B2S,"Robinsons Department Store - Galleria",RDS00004,B190528124242104-4
+188745,"Anna Marie Faller Pinlac",2019-05-29,B190529124247400,11000.00,B2S,"Robinsons Department Store - Cloverleaf",RDS00011,B190529124247400-4
