@@ -1,13 +1,13 @@
 ,accountId,client_name,date_applied,orderNo,billAmount,ticket_type,pos_name,pos_code,ticket_code
-0,1325808,Mark Ranier Bernabe Agunoy ,2019-05-28,B190528124241746,3000.0,B2S,Robinsons Department Store - Lipa,RDS00002,B190528124241746-1
-18,1340129,Lizel Galit Aguila,2019-05-29,B190529124244955,5000.0,B2S,Robinsons Department Store - Lipa,RDS00002,B190529124244955-2
-15,1346623,Jonel Armero Verano,2019-05-30,B190530124253405,8599.0,B2S,Robinsons Department Store - Galleria,RDS00004,B190530124253405-1
-17,281212,donnabel poliquit lumagod,2019-05-28,B190528124242104,10000.0,B2S,Robinsons Department Store - Galleria,RDS00004,B190528124242104-2
-23,1333669,jocelyn agub fugaban,2019-05-30,B190530124252729,5000.0,B2SRC,Robinsons Department Store - Pioneer,RDS00008,B190530124252729-2
-30,1333669,jocelyn agub fugaban,2019-05-30,B190530124252729,5000.0,B2SRC,Robinsons Department Store - Pioneer,RDS00008,B190530124252729-3
-10,548651,Nelmar Munez burlas,2019-05-30,B190530124252454,4500.0,B2SRC,Robinsons Department Store - Ermita,RDS00010,B190530124252454-1
-22,548651,Nelmar Munez burlas,2019-05-30,B190530124252454,4500.0,B2SRC,Robinsons Department Store - Ermita,RDS00010,B190530124252454-2
-4,188745,Anna Marie Faller Pinlac,2019-05-29,B190529124247400,11000.0,B2S,Robinsons Department Store - Cloverleaf,RDS00011,B190529124247400-1
-28,188745,Anna Marie Faller Pinlac,2019-05-29,B190529124247400,11000.0,B2S,Robinsons Department Store - Cloverleaf,RDS00011,B190529124247400-3
-14,1346352,Cheryl Padilla Ordona,2019-05-30,B190530124253048,3000.0,B2SRC,Robinsons Department Store - General Trias,RDS00015,B190530124253048-1
-43,621383,maria jane bonquin crisologo,2019-05-30,B190530124251100,13000.0,B2SRC,Robinsons Department Store - General Trias,RDS00015,B190530124251100-10
+0,1325808,Mark Ranier Bernabe Agunoy ,5/28/2019,B190528124241746,3000,B2S,Robinsons Department Store - Lipa,RDS00002,B190528124241746-1
+2,1340129,Lizel Galit Aguila,5/29/2019,B190529124244955,5000,B2S,Robinsons Department Store - Lipa,RDS00002,B190529124244955-1
+11,1346094,jayson bosquit pangan,5/30/2019,B190530124252573,4205,B2S,Robinsons Department Store - Galleria,RDS00004,B190530124252573-1
+33,281212,donnabel poliquit lumagod,5/28/2019,B190528124242104,10000,B2S,Robinsons Department Store - Galleria,RDS00004,B190528124242104-4
+20,1333657,Maria Cristina Cabilatazan Lontoc,5/29/2019,B190529124248429,5000,B2S,Robinsons Department Store - Pioneer,RDS00008,B190529124248429-2
+36,1333669,jocelyn agub fugaban,5/30/2019,B190530124252729,5000,B2SRC,Robinsons Department Store - Pioneer,RDS00008,B190530124252729-4
+10,548651,Nelmar Munez burlas,5/30/2019,B190530124252454,4500,B2SRC,Robinsons Department Store - Ermita,RDS00010,B190530124252454-1
+22,548651,Nelmar Munez burlas,5/30/2019,B190530124252454,4500,B2SRC,Robinsons Department Store - Ermita,RDS00010,B190530124252454-2
+19,188745,Anna Marie Faller Pinlac,5/29/2019,B190529124247400,11000,B2S,Robinsons Department Store - Cloverleaf,RDS00011,B190529124247400-2
+34,188745,Anna Marie Faller Pinlac,5/29/2019,B190529124247400,11000,B2S,Robinsons Department Store - Cloverleaf,RDS00011,B190529124247400-4
+29,621383,maria jane bonquin crisologo,5/30/2019,B190530124251100,13000,B2SRC,Robinsons Department Store - General Trias,RDS00015,B190530124251100-3
+42,621383,maria jane bonquin crisologo,5/30/2019,B190530124251100,13000,B2SRC,Robinsons Department Store - General Trias,RDS00015,B190530124251100-9
