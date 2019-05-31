@@ -1,5 +1,13 @@
 ,accountId,client_name,date_applied,orderNo,billAmount,ticket_type,pos_name,pos_code,ticket_code
 0,1325808,Mark Ranier Bernabe Agunoy ,2019-05-28,B190528124241746,3000.0,B2S,Robinsons Department Store - Lipa,RDS00002,B190528124241746-1
-2,1340221,Shiela Marie Catapat Banaag,2019-05-29,B190529124245075,2500.0,B2S,Robinsons Department Store - Lipa,RDS00002,B190529124245075-1
-8,188745,Anna Marie Faller Pinlac,2019-05-29,B190529124247400,11000.0,B2S,Robinsons Department Store - Cloverleaf,RDS00011,B190529124247400-2
-10,188745,Anna Marie Faller Pinlac,2019-05-29,B190529124247400,11000.0,B2S,Robinsons Department Store - Cloverleaf,RDS00011,B190529124247400-3
+18,1340129,Lizel Galit Aguila,2019-05-29,B190529124244955,5000.0,B2S,Robinsons Department Store - Lipa,RDS00002,B190529124244955-2
+15,1346623,Jonel Armero Verano,2019-05-30,B190530124253405,8599.0,B2S,Robinsons Department Store - Galleria,RDS00004,B190530124253405-1
+17,281212,donnabel poliquit lumagod,2019-05-28,B190528124242104,10000.0,B2S,Robinsons Department Store - Galleria,RDS00004,B190528124242104-2
+23,1333669,jocelyn agub fugaban,2019-05-30,B190530124252729,5000.0,B2SRC,Robinsons Department Store - Pioneer,RDS00008,B190530124252729-2
+30,1333669,jocelyn agub fugaban,2019-05-30,B190530124252729,5000.0,B2SRC,Robinsons Department Store - Pioneer,RDS00008,B190530124252729-3
+10,548651,Nelmar Munez burlas,2019-05-30,B190530124252454,4500.0,B2SRC,Robinsons Department Store - Ermita,RDS00010,B190530124252454-1
+22,548651,Nelmar Munez burlas,2019-05-30,B190530124252454,4500.0,B2SRC,Robinsons Department Store - Ermita,RDS00010,B190530124252454-2
+4,188745,Anna Marie Faller Pinlac,2019-05-29,B190529124247400,11000.0,B2S,Robinsons Department Store - Cloverleaf,RDS00011,B190529124247400-1
+28,188745,Anna Marie Faller Pinlac,2019-05-29,B190529124247400,11000.0,B2S,Robinsons Department Store - Cloverleaf,RDS00011,B190529124247400-3
+14,1346352,Cheryl Padilla Ordona,2019-05-30,B190530124253048,3000.0,B2SRC,Robinsons Department Store - General Trias,RDS00015,B190530124253048-1
+43,621383,maria jane bonquin crisologo,2019-05-30,B190530124251100,13000.0,B2SRC,Robinsons Department Store - General Trias,RDS00015,B190530124251100-10
